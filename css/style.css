@@ -1,5 +1,7 @@
 body {
   color: #252323 !important;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 18px;
 }
 .text-muted{
 color: #646881 !important;
@@ -16,4 +18,11 @@ background-color: #D5D5D8 !important;
 }
 .modal-content {
   background-color: #6a98b7;
+}
+header.masthead .intro-text .intro-heading {
+  font-family: 'Fascinate', cursive !important;
+}
+#mainNav .navbar-nav .nav-item .nav-link {
+  font-family: 'Open Sans Condensed', sans-serif !important;
+  font-size: 20px;
 }
