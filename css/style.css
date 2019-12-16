@@ -1,3 +1,19 @@
 body {
-  color: red !important;
+  color: #252323 !important;
+}
+.text-muted{
+color: #646881 !important;
+}
+.bg-light{
+background-color: #D5D5D8 !important;
+
+}
+.page-section{
+  background-color: #E0E1E3;
+}
+#portfolio .portfolio-item .portfolio-caption{
+  background-color: #6A98B7 !important;
+}
+.modal-content {
+  background-color: #6a98b7;
 }
