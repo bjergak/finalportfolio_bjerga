@@ -20,9 +20,16 @@ background-color: #D5D5D8 !important;
   background-color: #6a98b7;
 }
 header.masthead .intro-text .intro-heading {
-  font-family: 'Fascinate', cursive !important;
+font-family: 'Limelight', cursive !important;
+font-size: 72px;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: 'Open Sans Condensed', sans-serif !important;
   font-size: 20px;
+}
+.page-section h2.section-heading {
+  font-family: 'Limelight', cursive !important;
+}
+h1, h2, h4, h5, h6 {
+  font-family: 'Limelight', cursive !important;
 }
