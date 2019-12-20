@@ -39,7 +39,9 @@ h1, h2, h4, h5, h6 {
   font-family: 'Limelight', cursive !important;
 }
 header.masthead {
-background-image: url(file:///D:/UserData/Documents/GitHub/finalportfolio_bjerga/img/new-images/headerimg.png);
+background-image: url('img/newheader.jpg') !important;
+
+
 }
 section#contact {
   background-image: url(file:///D:/UserData/Documents/GitHub/finalportfolio_bjerga/img/new-images/headerimg.png)
